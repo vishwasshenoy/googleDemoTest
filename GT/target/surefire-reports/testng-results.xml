@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="5919" started-at="2017-03-11T20:32:06Z" finished-at="2017-03-11T20:32:12Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="5919" started-at="2017-03-11T20:32:06Z" finished-at="2017-03-11T20:32:12Z">
+      <class name="googleTest.SimpleSearchTest">
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:googleTest.SimpleSearchTest@d041cf]" name="searchTest" duration-ms="5903" started-at="2017-03-11T15:32:06Z" finished-at="2017-03-11T15:32:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+      </class> <!-- googleTest.SimpleSearchTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
